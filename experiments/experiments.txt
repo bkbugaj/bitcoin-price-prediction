@@ -1,0 +1,343 @@
+{'mae': 2005.1611867187498, 'mape': 5.55159143710415, 'r2': 0.7748236885136607}
+{'mae': 410.70448292410714, 'mape': 1.820871631525216, 'r2': 0.9765383077757765}
+Number of LSTM layers: 3
+batch_size: 32
+dropout_rate: 0.3
+early_stopping: False
+epochs: 100
+learning_rate: 0.0055
+loss: mean_squared_error
+monitor: None
+patience: None
+restore_best_weights: None
+units: 64
+validation_split: 0.1
+
+{'mae': 1805.3318835937494, 'mape': 4.898793540393604, 'r2': 0.7902477876777475}
+{'mae': 381.4114108258929, 'mape': 1.6925271409613383, 'r2': 0.9814987696271197}
+Number of LSTM layers: 3
+batch_size: 16
+dropout_rate: 0.2
+early_stopping: False
+epochs: 100
+learning_rate: 0.0055
+loss: mean_squared_error
+monitor: None
+patience: None
+restore_best_weights: None
+units: 64
+validation_split: 0.2
+
+{'mae': 1685.0945773437497, 'mape': 4.639363831663586, 'r2': 0.8316035618159989}
+{'mae': 344.7116766741071, 'mape': 1.5252530089476402, 'r2': 0.9825231759141642}
+Number of LSTM layers: 3
+batch_size: 32
+dropout_rate: 0.2
+early_stopping: False
+epochs: 150
+learning_rate: 0.0055
+loss: mean_squared_error
+monitor: None
+patience: None
+restore_best_weights: None
+units: 64
+validation_split: 0.2
+
+{'mae': 3026.9424953125003, 'mape': 8.245503367831054, 'r2': 0.4634200231562975}
+{'mae': 404.78710848214286, 'mape': 1.8332653196283193, 'r2': 0.9806872833139938}
+Number of LSTM layers: 3
+batch_size: 32
+dropout_rate: 0.3
+early_stopping: False
+epochs: 150
+learning_rate: 0.0055
+loss: mean_squared_error
+monitor: None
+patience: None
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 2663.9195031249997, 'mape': 7.268240606117223, 'r2': 0.5852820620831967}
+{'mae': 372.39070781249995, 'mape': 1.6596600628204474, 'r2': 0.9810363070013195}
+Number of LSTM layers: 3
+batch_size: 32
+dropout_rate: 0.3
+early_stopping: False
+epochs: 150
+learning_rate: 0.0055
+loss: mean_squared_error
+monitor: None
+patience: None
+restore_best_weights: None
+units: 64
+validation_split: 0.1
+
+{'mae': 2414.8138210937495, 'mape': 6.551011438025814, 'r2': 0.6416668154678897}
+{'mae': 343.0376705357142, 'mape': 1.5407946981689267, 'r2': 0.9832027925655886}
+Number of LSTM layers: 3
+batch_size: 32
+dropout_rate: 0.2
+early_stopping: False
+epochs: 150
+learning_rate: 0.0055
+loss: mean_squared_error
+monitor: None
+patience: None
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 1393.8099039062497, 'mape': 3.822442103362688, 'r2': 0.8775855316237788}
+{'mae': 363.9842319196429, 'mape': 1.6453143899181017, 'r2': 0.9825720532772125}
+Number of LSTM layers: 3
+batch_size: 32
+dropout_rate: 0.2
+early_stopping: False
+epochs: 150
+learning_rate: 0.0055
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.1
+restore_best_weights: None
+units: 128
+validation_split: 0.1
+
+{'mae': 2709.6174257812504, 'mape': 7.451257845739194, 'r2': 0.5941438614908253}
+{'mae': 494.0157799107144, 'mape': 2.277918050940481, 'r2': 0.9737697817711225}
+Number of LSTM layers: 3
+batch_size: 32
+dropout_rate: 0.2
+early_stopping: False
+epochs: 150
+learning_rate: 0.0055
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.2
+restore_best_weights: None
+units: 128
+validation_split: 0.1
+
+{'mae': 4856.32997578125, 'mape': 13.573771545313381, 'r2': -0.1704047970045619}
+{'mae': 979.7634207589285, 'mape': 4.093090086591071, 'r2': 0.9133691935843578}
+Number of LSTM layers: 3
+activation: None
+batch_size: 32
+dropout_rate: 0.1
+early_stopping: False
+epochs: 150
+learning_rate: 0.005057185485916745
+loss: mean_absolute_error
+monitor: None
+patience: None
+recurrent_dropout: 0.2
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 4764.4562453125, 'mape': 13.119716710427506, 'r2': -0.22084595829234255}
+{'mae': 719.7076174107143, 'mape': 3.143853152812797, 'r2': 0.9507255460406111}
+Number of LSTM layers: 3
+activation: tanh
+batch_size: 32
+dropout_rate: 0.1
+early_stopping: False
+epochs: 100
+learning_rate: 0.00494225087672149
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.2
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 1431.2146265624997, 'mape': 3.9946039578106793, 'r2': 0.8829559346359985}
+{'mae': 372.5278409598215, 'mape': 1.6641047493532808, 'r2': 0.9806666830730222}
+Number of LSTM layers: 3
+activation: None
+batch_size: 32
+dropout_rate: 0.1
+early_stopping: False
+epochs: 150
+learning_rate: 0.005263073714006008
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.2
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 1411.534403125, 'mape': 3.9180010124258287, 'r2': 0.8841526519515077}
+{'mae': 368.56094397321436, 'mape': 1.6521646659472529, 'r2': 0.9810978369903618}
+Number of LSTM layers: 3
+activation: None
+batch_size: 32
+dropout_rate: 0.1
+early_stopping: False
+epochs: 150
+learning_rate: 0.005749035049301573
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.1
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 3459.3131875000004, 'mape': 9.432951839187037, 'r2': 0.3229463501246842}
+{'mae': 492.2832936383929, 'mape': 2.194882038537395, 'r2': 0.9741869426185746}
+Number of LSTM layers: 3
+activation: tanh
+batch_size: 32
+dropout_rate: 0.2
+early_stopping: False
+epochs: 150
+learning_rate: 0.004340817550199254
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.1
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 1862.9301578125003, 'mape': 4.980791279634768, 'r2': 0.7839629454895263}
+{'mae': 389.03037455357145, 'mape': 1.737445917293018, 'r2': 0.9821579196537369}
+Number of LSTM layers: 2
+activation: softsign
+batch_size: 32
+dropout_rate: 0.1
+early_stopping: False
+epochs: 150
+learning_rate: 0.005674168634672807
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.0
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 731.3282742187502, 'mape': 2.034328514549924, 'r2': 0.9598901850702929}
+{'mae': 424.5643697544643, 'mape': 1.8918092636330102, 'r2': 0.9788580930832652}
+Number of LSTM layers: 2
+activation: None
+batch_size: 32
+dropout_rate: 0.2
+early_stopping: False
+epochs: 100
+learning_rate: 0.00522766854683878
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.1
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 1194.3061859375002, 'mape': 3.290051944846326, 'r2': 0.9090292648720074}
+{'mae': 366.8394154017857, 'mape': 1.613480517660635, 'r2': 0.9801102657902453}
+Number of LSTM layers: 2
+activation: tanh
+batch_size: 64
+dropout_rate: 0.1
+early_stopping: True
+epochs: 150
+learning_rate: 0.005201485776596229
+loss: mean_squared_error
+monitor: loss
+patience: 30
+recurrent_dropout: 0.0
+restore_best_weights: True
+units: 96
+validation_split: 0.1
+
+{'mae': 2659.13171875, 'mape': 7.179590586587937, 'r2': 0.6046546400684253}
+{'mae': 400.92373515624996, 'mape': 1.7238305916604353, 'r2': 0.979183202227993}
+Number of LSTM layers: 2
+activation: softsign
+batch_size: 32
+dropout_rate: 0.1
+early_stopping: True
+epochs: 100
+learning_rate: 0.005951978682240866
+loss: mean_squared_error
+monitor: loss
+patience: 30
+recurrent_dropout: 0.2
+restore_best_weights: True
+units: 96
+validation_split: 0.1
+
+{'mae': 1462.4367062500003, 'mape': 3.9729821756069663, 'r2': 0.8582096137947386}
+{'mae': 673.0020112723215, 'mape': 2.880773288950102, 'r2': 0.9574862837506223}
+Number of LSTM layers: 2
+activation: softsign
+batch_size: 16
+dropout_rate: 0.2
+early_stopping: False
+epochs: 50
+learning_rate: 0.007487557572017199
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.0
+restore_best_weights: None
+units: 96
+validation_split: 0.1
+
+{'mae': 2065.4764984375, 'mape': 5.602511722015366, 'r2': 0.7549955339415089}
+{'mae': 417.0285194196429, 'mape': 1.853876719617006, 'r2': 0.9741485300264423}
+Number of LSTM layers: 2
+activation: softsign
+batch_size: 128
+dropout_rate: 0.3
+early_stopping: False
+epochs: 100
+learning_rate: 0.004325584122663141
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.2
+restore_best_weights: None
+units: 128
+validation_split: 0.1
+
+{'mae': 1321.7233664062503, 'mape': 3.5694832451565612, 'r2': 0.887621804286132}
+{'mae': 353.90149296875006, 'mape': 1.5783686923289904, 'r2': 0.9815602344700943}
+Number of LSTM layers: 2
+activation: tanh
+batch_size: 128
+dropout_rate: 0.1
+early_stopping: False
+epochs: 250
+learning_rate: 0.004441953289483528
+loss: mean_squared_error
+monitor: None
+patience: None
+recurrent_dropout: 0.1
+restore_best_weights: None
+units: 64
+validation_split: 0.1
+
+{'mae': 1976.1167179687495, 'mape': 5.322668060199701, 'r2': 0.7699277309474708}
+{'mae': 348.79080591517857, 'mape': 1.536818611050476, 'r2': 0.9831256659413454}
+Number of LSTM layers: 2
+activation: softsign
+batch_size: 64
+dropout_rate: 0.2
+early_stopping: True
+epochs: 250
+learning_rate: 0.005339775740535658
+loss: mean_squared_error
+monitor: loss
+patience: 50
+recurrent_dropout: 0.0
+restore_best_weights: True
+units: 96
+validation_split: 0.1
+
