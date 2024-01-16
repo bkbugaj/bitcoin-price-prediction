@@ -12,7 +12,7 @@ The repository contains a Jupyter notebook (`bitcoin-price-prediction.ipynb`) fo
 - This file contains the `Bitcoin to Euro` time series dataset used for training the model and conducting hyperparameter tuning.
 
 #### experiments/experiments.txt
-- This file stores the outcomes of multiple runs of `RandomizedSearchCV`. Each entry includes the `Mean Absolute Error (MAE)`, `Mean Absolute Percentage Error (MAPE)`, and `R-squared (R2)` values the best estimator identified by `RandomizedSearchCV`.
+- This file stores the outcomes of multiple runs of `RandomizedSearchCV`. Each entry includes the `Mean Absolute Error (MAE)`, `Mean Absolute Percentage Error (MAPE)`, and `R-squared (R2)` values calculated for the best estimator identified by `RandomizedSearchCV`.
 - The hyperparameter values of the best estimator are documented for reference.
 
 #### models
